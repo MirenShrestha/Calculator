@@ -47,8 +47,11 @@ function clearAll() {
      operator='';
      result='';
      displayVal='';
-    document.getElementById('result').innerText='0';
+    document.getElementById('result').innerText='0' ;
 
 
 
 }
+
+
+
